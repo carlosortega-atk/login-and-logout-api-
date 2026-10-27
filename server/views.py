@@ -578,3 +578,4 @@ def fianza(request):
     ]
 
     return Response(result, status=status.HTTP_200_OK)
+   
